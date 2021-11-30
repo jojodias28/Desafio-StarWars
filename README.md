@@ -11,6 +11,7 @@ Para  realização deste projeto foram utilizados:
 * Componentes funcionais,
 * hooks 
 * Global states
+* Router
 * Styled-components e 
 * material MUI
 
