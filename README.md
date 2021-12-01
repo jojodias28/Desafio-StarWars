@@ -23,7 +23,7 @@ Para  realização deste projeto foram utilizados:
 
 ### Pagina Home
 
--Componente com um dois botões, um para ir para página starships e outro para ir para páginas de pilots.
+-Componente com dois botões, um para ir para página starships e outro para ir para páginas de pilots.
 
 ### Página Starships
 
